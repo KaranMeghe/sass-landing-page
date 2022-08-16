@@ -8,6 +8,11 @@ Here is the link for the Project [Netlify](https://sasslandingdot.netlify.app/)
 
 <img width="1440" alt="Screenshot 2022-08-13 at 8 02 21 PM" src="https://user-images.githubusercontent.com/78386171/184498918-db02c48f-bc6d-4058-84cf-4e90b161fded.png">
 
+![Screenshot 2022-08-16 at 6 43 14 PM](https://user-images.githubusercontent.com/78386171/184888360-1dec1adc-9b2c-4f9f-922d-a595bb22229d.png)
+
+
 ## What i learned from this project??
 - This Project Was good learning experince for me
-- It took 2hrs to complete this project
+- I learned how to make Hamburger menu with help of css and Js
+
+### It took almost 4hrs to get complete these project 
