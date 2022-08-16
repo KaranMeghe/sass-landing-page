@@ -264,7 +264,7 @@ li {
 
   .header {
     background-color: var(--bg-primary);
-    height: 100vh;
+    height: 110vh;
     border-top-left-radius: 0rem;
     border-top-right-radius: 0rem;
   }
@@ -357,7 +357,7 @@ li {
 
   .herobox-content {
     width: 100%;
-    margin-right: 2rem;
+    margin: 3rem 2rem;
     text-align: center;
   }
 
