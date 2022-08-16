@@ -14,5 +14,6 @@ Here is the link for the Project [Netlify](https://sasslandingdot.netlify.app/)
 ## What i learned from this project??
 - This Project Was good learning experince for me
 - I learned how to make Hamburger menu with help of css and Js
+- Also learn how to apply media queries for mobile devices 
 
 ### It took almost 4hrs to get complete these project 
